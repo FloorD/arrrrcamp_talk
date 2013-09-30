@@ -1,9 +1,10 @@
-###How to survive family gatherings and birthday parties as a Techie
+##How to survive family gatherings and birthday parties as a Techie
 
+I suggest subscribing to Skill Crush emails, or teaching at a beginners workshop like Rails Girls. They don't care about your favorite texteditor or os. God forbid, they might not even know what VC means. They will certainly not understand your 'hoon gelach' when they just shared how they built their website in Joomla or WordPress. 
 
 How does one explain to their grandparents what they do for a living? Or a potential love interest? With my talk I want to cut the crap, move past jargon and offer handy comparisons even your granny will understand.
 
-#####Audience Takeaway
+####Audience Takeaway
 After this talk you can converse about your favorite nerd topics with total noobs without having to explain yourself all the time.
 
 No dongle jokes were used for this talk.
@@ -27,12 +28,18 @@ Pen testing
 hackerpest  
 conference shirts, geeky shirts, shirts that were once black, but now different shades of grey  
 
-#####My mom
+###Cut the cr- lingo
+Unraveling some terms we like to use,
+
+###My mom
+what I think I do - what ... thinks I do
+
 So I asked my mom what she thinks I'm doing every day. My mom is fairly interested in (using) tech, as soon as it reaches a lifestyle status. WUT? She loves Twitter and somehow installed Tweetdeck on her laptop, and she has Facebook.com listed in her 'favorieten'. 
 She follows [this guy][2], to get a hold of what's happening in the startup scene.  
 
+###My friends
 
-#####Presents
+###Presents
 Don't be the guy buying half-life 2 (or 3, I have no idea what iteration we're at) for your nephew, only so you can have someone to play with.
 makey-makey to get your cousins interested in tech
 
