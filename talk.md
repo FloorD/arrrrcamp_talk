@@ -12,7 +12,9 @@ I'd suggest subscribing to Skill Crush emails - you still have time to complete 
 
 He says the most amazing stuff. A selection:  
 
-I like real time. It’s so fast.  
+I like real time. It’s so fast. 
+I would like to see the kids of this shit. (the children of an element)
+I'm not a VCS. (answer to 'you silly git')    
 I consider my laptop both secure an compromised. It’s like Schrödingers Katze.  
 I’m a binary shopper. It’s either a ‘yes’ or I hate it.  
 There’s always something to google on the internet.  
@@ -30,36 +32,52 @@ Maybe you also found a partner in development (sounds wrong somehow) and you'll 
 - wears conference shirts, geeky shirts, shirts that were once black, but now different shades of grey only. 
 
 ##Cut the cr- lingo
-Unraveling some terms we like to use,  
+Let's unravel some of the terms we like to use, as there not very noob-friendly. 
 
-Teaching at Rails Girls events I know there is a fine line between 
-you can't explain everything using everyday objects (think: cats), although sometimes it works. Describing scaffolding as the fundaments of a new building is correct and doesn't dumbs the action down.  
+Teaching at Rails Girls events I know there is a fine line between explaining something in a way a beginner can understand it - and making something unnecessarily abstract.  
+You can't explain everything using everyday objects (think: cats), although sometimes it works. Describing scaffolding as the fundaments of a new building is correct and doesn't dumbs the action down.  
 
 ####Websites vs. web applications
 Websites are static, meaning they are not updated, at least not all that often. When someone says “website” you should think simple, single page sites or marketing websites. Websites are built using HTML, CSS, and maybe a little bit of JavaScript. No programming language is required, and neither is a database.  
 Like desktop applications (Word, Photoshop, Skype), web applications are dynamic and ever-changing. Web applications rely on you to interact with them, whether by contributing content (YouTube, Twitter, Facebook) or by gathering data from other sources and presenting it to you (Mint, Google Analytics, Klout) or a little bit of both!
 
 When most people are talking about tech companies, they are usually talking about companies that create fancy custom web applications. Like everything on the web, Web applications are built with HTML, CSS & JavaScript, but they also use programming languages like PHP, Ruby, or Python, and frameworks like Rails, Django, and CakePHP. Web applications almost always use databases, and because of that they are called dynamic.  
+
 ####We're bootstrapping
+You're paying for stuff with your own money. End of story.  
 
 ####I'm vc-ing the shit out of this application
+You are using a version control system to make a virtual backup of your application. But honestly, why would you tell this to your uncle in accounting at a christmas get-together - to get back to the subject of this talk?!  
 
 ####Back-end
 Developers usually specialize in either frontend or backend technologies (not usually both) and many companies have frontend and backend teams, or even whole departments dedicated to either end!
-The frontend is the part of a web site that you can see and interact with, while the backend is all the rest.
+The frontend is the part of a web site that you can see and interact with, while the backend is all the rest. There are hundreds of different programming languages, and they all make you type different things to get the same result. 
 
-iceberg graphic (noun)
-The backend is everything that happens before it gets to your browser. If you’re booking a flight, that’s where prices are checked, itineraries are booked, and credit cards are charged. A backend can be very simple or very complicated.
-
-A typical setup for a backend is a web server, an application and a database. The web server delivers a note to the application that you’d like to see all of the flights to Chicago. The application looks up the flights in the database, puts together a web page that lists them, and sends that web page back to your computer through the web server. That’s all the backend. Once your computer gets a hold of it, it’s the frontend.
-
-For technologies used in the backend, anything goes. If a database stores your name or flight info, it might be MySQL, MongoDB, PostgreSQL, or many others. Web pages could be put together with Python, Ruby on Rails, or PHP. The web server that sends those pages over to your computer might be Apache, Nginx, or IIS. The list goes on and on!
 ####Open Source
+You started something, figured out that you can't make money with it and then threw it in a corner of the Internet - for others to fix its bugs. KIDDING. You are a collaborator at heart and you believe that world-changing - scratch that - useful software should be build transparently and freely available. 
 
 ####Cyber security
 privacy issue, NSA PRISM
 
-####Databases vs servers
+##What's up with job titles nowadays?
+Some of the terms regularly used in job offerings in tech these days: 
+**senior** - although 3 years of experience will take you there  
+**rockstar** - "a rockstar can do the work of 10 regular developers". Bullshit, no-one can.  
+**ninja** - a ninja usually specializes in different fields of interest, but correct me if I'm wrong. Additionally, if you have a strict policy on being-present-during-office-hours, you might have a slight problem.  
+**guru** - gross.   
+**wizard** - pret-ty exclusive, huh?  
+
+
+##... and that's coming from a 'developer evangelist'
+
+I started programming august last year. I had been working as a community manager for 5 years and being an art school graduate, I missed 'making stuff'. The social yellow pages startup I worked for at the time allowed me to work closely together with the dev team. Not that that was all that easy. Although I was one of only 15 employees - and managing 5 of them being head of community management - the gap between marketing and communications and the developers seemed 'unbridgeable'. As some of the attendees might know, working for a startup means you have a lot of responsibilities. A coworker that used to do some recruitment in her days might take on HR next to her day job as a marketeer and the developer who had done quite some stuff for advertising agencies is in charge of all things design. Being interested in tech topics and able to pick up on slang relatively fast (a trick that came with my job) the developers quickly adopted me as a somewhat equal in their discussions. I quickly learned how to write bug reports in a way to avoid 'I can't reproduce this, therefor there is no bug'.  
+This was around the time that our company adopted this theory of 'constant hackweek'. As a result our developers would be working on new awesome features - that I would then eagerly translate in to normal-human-language for our blog - rather than on fixing existing bugs. Now as a community manager you're dealing with the users of your service or product on a hourly basis. So I'd hear from my team what feature was lacking or was even throwing a huge error. As people associated me personally with the service I'd get somewhat angry direct messages urging to go and 'talk to the engineers'. Instead of doing that however, I decided to learn Ruby (on Rails), so I could fix them myself. Or at least go as far as figuring our what the problem could be and suggest a solution.  
+
+I started with studying the Rails Girls guides and attempted to master the terminal and Git with a good friend and coworker. Having had experience with CSS, HTML and even a bit of PHP, learning Rails seemed to be not a too big of a deal. Defending why I'm coaching at an co-organizing Rails Girls events and not Java Girls or Go Girls (other than that it just sounds wrong) my answer would always be that Rails is fairly easy to read and understand. Which is a great first step.
+In December I subscribed to this Ruby off Rails course, for I wanted to learn more about the language behind the framework. As of January I spend all my weekends in the local hackerspace rebuilding a guilt website for this online game Rift from scratch, together with another Ruby rookie, who attended DevBootcamp in SF. Our mentor is again an ex colleague of mine, who devotes his FREE time teaching two quite stubborn newbies the ins and outs of his favorite programming language.
+In my adoptive hometown (Vienna) I started co-organizing WordPress meetups and Ruby meetups (vienna.rb) to contribute to the local community of developers. It has been a very satisfying experience. I like meeting and connecting like-minded people and as far as the Ruby meetups concerned, I think it's a healthy thing for the attendees as well, to leave their desks or attics for once and meet peers and interesting companies and get to hear some great talks about how other people deal with the recent security issues in Rails, for example.
+I also have a day job by the way, I 'do' developer evangelism, translating code documentation in common people - scratch that - user-language and feature requests to dev speak.  
+
 
 ##What ... thinks I do
 
@@ -69,25 +87,25 @@ what I think I do - what ... thinks I do
 So I asked my mom what she thinks I'm doing every day. My mom is fairly interested in (using) tech, as soon as it reaches a lifestyle status. WUT? She loves Twitter and somehow installed Tweetdeck on her laptop, and she has Facebook.com listed in her 'favorieten'. 
 She follows [this guy](https://twitter.com/AlexanderNL), to get a hold of what's happening in the startup scene.  
 
+My mum basically thinks I organize meetups with sponsored drinks, so I can get the attendees drunk and agree to use - sratch that - buy my application. 
+
 ####My friends
 
-Het werk van een web developer.
-Zodra de web developer op zijn of haar werkplek (ook wel "The Battleground") aankomt begint het onheil. Draken. Grote vuurspuwende draken met furieuze rode ogen met angstaanjagende tanden razen The Battleground op zodra de web developer inklokt met het Amulet der Wijsheid. Moet de web developer huiveren? Neen. Draken zijn dagelijkse kost. Maar draken komen natuurlijk zelden alleen, ze worden bereden door de Cyclopen van Zulugh N'darh. Gewapend met hun knotsen en geschreeuw vliegen zij op hun draken door de lucht (welke overigens immer groen is en tijdens werktijd van de web developer continu gevuld met hagel, bliksem en angstaanjagende donderklappen). Aan het einde van de dag, vaak vlak voor het uitklokken met het Amulet der Wijsheid, verschijnen er soms ook nog Goblins of Doom, Death Zombies en Schimmen uit De Vallei ten tonele. Naast dit alles komt het niet zelden voor dat er tijdens de vrijdagmiddagborrel een Ass Vampire op komt dagen.
+I asked the same question to one of my friends and he wrote this saga:
 
-De werkwijze van de web developer.
-Tegen al dit kwaad is de web developer gelukkig bestand. De web developer heeft zich namelijk gespecialiseerd in het maken van de fijnste soorten webben om de vijanden te vangen. Zodra dit is gebeurd gebruiken zij spreuken uit mysterieuze virtuele boeken (bijvoorbeeld PHP, Visual C++ en Ruby on Rails) om de snoodaards en demonen te laten verdwijnen of in ijs of steen te laten veranderen. Waar de web developer het praktische werkt doet, krijgen zij hulp uit een andere hoek van de web desginer. Deze zorgt o.a. voor goede camouflage van de webben, zodat de vijanden makkelijker te vangen zijn. Ook produceren zij allerlei moois om de vijanden de webben in te lokken. Als laatste partij is er de usability expert. Deze richt zich vooral op de efficiëntie van de spreuken en webben. Deze moeten namelijk niet te ingewikkeld zijn omdat de vijand elk moment kan aanvangen. De usability expert controleert de web developer én de web designer op deze zaken. Samen vormen zij de Heilige Drie Eenheid van Inthergh Nerth.
+The moment the web developer arrives at her workspace (aka The Battleground) the trouble starts. Dragons. Big, firespitting dragons with eyes red of fury and teeth the size of trees - big pointy trees. They rush to the battleground as the web developer punches his Amulet of Wisdom. Do we see the web developer shiver? Not really. Dragons are a common sight on the battleground. But dragons seldom operate alone. Cyclops of Zulugh N'darh, armed to the bone, drive these dragons, screaming their awful scream. Unbothered by the green skies, filled with lightning and thunder, Goblins of Doom, Death Zombies and shadows of the shire join them, just before the web developer clocks out his amulet of wisdom at the end of the day. Danger lurks even at the TGIF, taken the form of vampires.
+The web developer is immune to this danger as she specialized in making the finest of webs to catch these monstrous creatures. As she catches them, she uses magic spells from mysterious virtual books (like PHP, C++ or Java) to make them dissapear or to change them into stone or ice. Although the web developer takes care of all the practical stuff, she gets help from the web design corner. These people take care that the webs are beautifully camouflaged, to fool the monsters. And they add niceties to lure them in. Then there's the usability expert. He focusses on the efficiency of the webs. In case of sudden danger, the webs need to be created fast. The usability expert keeps the web developer and web designer agile, together they are the Holy Trinity of Intergh Nerth. The work of a web developer is crucial for this planet and will never be done. Never.   
 
-Het werk van een web developer is belangrijk voor het voortbestaan van onze planeet en is nooit klaar.
+I don't know where exactly I fit in, but it's shocking how accurate his description of our world is. 
 
-Nooit.
+####Me
+Unicorns.
 
 ##How to survive...
 
 ####Presents
 Don't be the guy buying half-life 2 (or 3, I have no idea what iteration we're at) for your nephew, only so you can have someone to play with.
-makey-makey to get your cousins interested in tech
-
-####Human interaction
+Buy a makey-makey to get your cousins interested in tech. 
 
 ####A congener!
 Given the situation that a new addition to the family is a programmer, even if he or she does not write elegant Ruby code, this is a blessing. PHP developer or not - they are gonna kill me for this at WordCamp this weekend - you both like to do stuff with code and thus allies. 
