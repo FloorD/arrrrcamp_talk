@@ -23,14 +23,6 @@ So I added you to this git repository to manage things around the house, with gr
 
 ... and I'm unable to catch all the obscure Star Wars, Star Trek, Dune, whatever references as I enjoy those thing too - so they can't possibly be weird.  
 
-Maybe you also found a partner in development (sounds wrong somehow) and you'll recognize these things - he/she:  
-- uses IRC when you're in the same room  
-- usually attends so few 'social' event people tend to think you have an imaginary boyfriend/girlfriend  
-- only talks to strangers if they are developers too  
-- fantasizing about replacing someone with a two liner  
-- constantly suffers from the hackerpest  
-- wears conference shirts, geeky shirts, shirts that were once black, but now different shades of grey only. 
-
 ##Cut the cr- lingo
 Let's unravel some of the terms we like to use, as there not very noob-friendly. 
 
@@ -57,11 +49,12 @@ The frontend is the part of a web site that you can see and interact with, while
 You started something, figured out that you can't make money with it and then threw it in a corner of the Internet - for others to fix its bugs. KIDDING. You are a collaborator at heart and you believe that world-changing - scratch that - useful software should be build transparently and freely available. 
 
 ####Cyber security
-privacy issue, NSA PRISM
+There are actually very few people who have an idea about what the whole NSA, PRISM 'thing' actually entails. And even if they have an idea, the responses usually vary from "I have nothing to hide, so I'm goooood" to the perception that it's a downright outrage that we can punch in all this personal information to vouch for the use of free services and then get spyed on. Who would have thought, right?!  
+Once you get started talking about this subject - although it might not be the best conversation starter - people are very grateful if you can help them with simple hacks to ensure their safety and (perceived) privacy online. 
 
 ##What's up with job titles nowadays?
-Some of the terms regularly used in job offerings in tech these days: 
-**senior** - although 3 years of experience will take you there  
+Some of the terms regularly used in job offerings in tech these days:  
+**senior** - although 3 years of experience will take you there   
 **rockstar** - "a rockstar can do the work of 10 regular developers". Bullshit, no-one can.  
 **ninja** - a ninja usually specializes in different fields of interest, but correct me if I'm wrong. Additionally, if you have a strict policy on being-present-during-office-hours, you might have a slight problem.  
 **guru** - gross.   
@@ -105,16 +98,16 @@ Unicorns.
 
 ####Presents
 Don't be the guy buying half-life 2 (or 3, I have no idea what iteration we're at) for your nephew, only so you can have someone to play with.
-Buy a makey-makey to get your cousins interested in tech. 
+Buy a makey-makey to get your cousins interested in tech. Or a Raspberry Pi, if they are more advanced.   
+domains - though that might be dangerous  
 
-####A congener!
+####Ermagherd! Another programmer!
 Given the situation that a new addition to the family is a programmer, even if he or she does not write elegant Ruby code, this is a blessing. PHP developer or not - they are gonna kill me for this at WordCamp this weekend - you both like to do stuff with code and thus allies. 
 
-####Food
-Bring some, as your family probably did not take all your allergies into account.  
-Also: it's (probably) not pizza.  
+####Turn of your devices
+as that will allow you to fully practice...  
 
-####...
+####...Test Driven Interaction.
 
 If you need help tackling any specific family problems, don't hesistate to ask me for advice at the after party. 
 
