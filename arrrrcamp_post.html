@@ -1,0 +1,147 @@
+Arrrrcamp 2013 - a recap
+
+The city of Ghent has been the home of [ArrrrCamp](http://arrrrcamp.be/) since its inception. The conference venue is a place called Zebrastraat. It's a great location in what used to be part of a zoo and has now become a meeting point for conferences and expositions. True story.
+Upper and lower deck thing going on - and the pirate references don't stop there...   
+
+<h2>Thursday October 3</h2>
+
+<h3>You gotta try this</h3>
+<strong>Avdi Grimm</strong>  
+Avdi talked deferring code blocks, [naught](https://github.com/avdi/naught) (a toolkit for building Null Objects in Ruby - and you don't even need a library for it!), interface sub-setting, sprouting command objects and 'Meta-programmering'.  
+Combine this with intermezzos about happiness and joy (and codesnippets)... leading up to pair programming, and you have a great starting keynote.  
+
+What I took away from this talk - that is, except for a [very silent pair partner](https://github.com/kilaru) - is that I'm sure gonna use *def black_hole* in a project, one of these days.  
+
+<h3>Standard Library, Uncommon Uses</h3>
+<strong>Piotr Szotkowski</strong>  
+
+prime numbers fanboy (.simple_prime? vs .clever_prime?), http signatures, DRb servers (Rinda), IPAddr, 
+You can use underscores in numbers in Ruby and it's so much more readible than 7+ digits, you co-workers will love you for this.
+
+PStore
+Abbrev
+Benchmark
+
+Homework:
+SecureRandom.uuid & SecureRandom.urlsafe_base64 (random string of a given length)
+Ripper 
+Delegator, SimpleDelegator, Forwardable, Observable patterns
+Pathname, Open3
+StringScanner
+SizedQueue
+TSort (with gems depending on other gems, with which you should go forward)
+Levenshtein gem
+and the dRuby book
+talks.chastell.net 
+
+<h3>How to create the perfect prototype</h3>
+<strong>Phil Nash (MintDigital)</strong>  
+
+prototype = build a application to try out an idea, not production readu, though well thought out an ready to test with users.
+lack of deadline (deadlines are great), hard decisions get put off, easily bloats with unnes features, other prio
+
+showcasing hacks that got out of hack weeks (as a training scheme) at Mint Digital quizabl.es/family-guy
+
+foldable.me  - cartboard avatars - which is actually a business
+
+4-days hack weeks with clients - tight set of features, with clear focus an deadline, single mindset
+
+small dedic team  
+fast dec making  
+clear proposition  
+testable application  
+
+coding the best prototype you can in a short period of time. use everything available to get a headstart, templates, gems, plugins  
+no time for trying out new libraries  
+TEST!  
+Deploy as often as possible  
+iterate on the ideas in the prototype, don't launch the prototype
+
+<h3>Ruby for your two internal programmers</h3>
+<strong>Jano González</strong>  
+
+Hacker vs thinker
+
+Hacks, need more ducttape, write code for own use
+
+Too many abstractions analysis paralysis, not a fast prototyper
+
+Trilogy 
+The hacker years
+The learning years
+The UML years - enterprise cubicle world
+Hacker was gone
+Stockholm syndrom
+
+<h3>Ten things I didn’t know about HTML</h3>
+<strong>Mathias Bynens</strong>  
+"Web development never gets boring to me. Not just because nowadays, new “HTML5” technologies are emerging like tubes of spaghetti at a pasta factory — but mostly because there’s always something new to learn. Even the oldest, most reliable features of HTML/CSS/JavaScript, “the basics” that we take for granted every day, are full of hidden gems or restrictions. During this talk, we’ll take a look at the more obscure parts of HTML, CSS and JavaScript, and demystify some of them.  
+
+Use validation as a tool, not the goal
+Scumbag semicolon, pretends to be optional, breaks everthing when omited
+
+
+Doctype and title and skip all the other tags
+
+Using css without html
+Mathiasbynens.be/demo/css-without-html
+
+Font family starting with digits doesn't work without quotes
+Font family validator
+
+<h3>Pirate Power Play: How to do computation by playing games</h3>
+<strong>Daan van Berkel</strong>
+
+
+
+<h3>Frequently Asked Questions</h3>
+<strong>Ben Orenstein</strong>  
+
+- What should I do if I inherit an app with no tests?
+- Any advice on how to switch to vim?
+- How does one land her first Rails job?
+- How does one land a better Rails job?
+- How do I conquer the fear of letting others see my code?
+- Am I underpaid?
+- How do I balance integration and isolated tests?
+- How can I make myself stick to TDD when the going gets tough?
+
+<h2>Friday October 4</h2>
+
+<h3>How To Win Designers And Influence Developers</h3>
+<strong>Adam Rogers</strong>  
+This talk is about ways to hack your team for a more efficient, productive and ultimately happier existence. That's the good news. The bad news is hacking your team starts with hacking yourself.
+
+Whenever you want to scream at someone for doing a bad job, give them credit for something else instead. Help out. Ask a question. @Rodreegez
+
+
+<h3>Fun with Ruby and Redis</h3>
+<strong>Javier Ramirez</strong> 
+What is redis, what you can do with it, how you can use it from Ruby, why you should be using it already and some common patterns when dealing with it.
+
+Redis and Lua
+Every time line 800 tweets per user is on Redis
+5000 writes per second avg
+300k reads per second
+
+Bloom filters
+
+<h3>Écouter et répéter is SO last century</h3>
+<strong>Ryan Stenhouse</strong>  
+You know what? Learning how to speak another language shouldn't be hard. So lets put it in a context that we know and love - programming in Ruby. This is a talk about abstraction, counting, syntax and grammar.  
+
+Learning another language shouldn't be an insurmountable challenge, learning to speak another language even less so. I fully believe, and will explain that by our very nature as programmers, we do this all the time - I'll talk about how these same skills that let us switch from Java to Ruby to Go can be used to help us switch from English to Swedish to Japanese.  
+
+<h3>Rails: Still the Best Framework for Bootstrapping</h3>
+<strong>Anthony Eden</strong>
+This year we launched a new product (KBSimple) in 6 weeks - from initial commit to accepting customers. Go through the 6 week evolution of the product, talk about the various gems and techniques that were essential in reducing the amount of time it took to launch, and talk about some of the challenges we faced along the way.
+
+Things always start simple and then add/gain complexity by people touching it. Rails axctually threw out chunks of complexity. Remember plugins?  
+
+Cut the cruft (you don't need feature 1, 2, 3 and the possibility to parse Wikipedia), but don't cut the tests.  
+exploring Go,  Erlang, 
+
+Lightning talks time! Talks where planned on <a href="" target="_blank">Rails Girls Summer of Code</a>, 'Arrrrdrones', creating fancy lightboxes with CCS (go, <a href="" target="_blank">Lea Verou!</a>) and <a href="" target="_blank">Magma Conf</a>, amongst other topics.  
+
+Then **my sort-of closing talk** was up, but more on that later, in a seperate blog post. Friday evening we enjoyed (Ruby) burgers, GitHub sponsored beers, and inside jokes about startups started and ended at this conference (who can forget about Pantscam?), sparkle water (as opposed to sparkling water) and pirate references.  
+
